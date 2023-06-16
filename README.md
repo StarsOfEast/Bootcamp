@@ -38,7 +38,8 @@ Aksiyon parkur severler için
 # Sprint 1
 
 ---
-https://trello.com/b/VLoAuF8B/u-14
+![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/3e8a0e87-9ca3-4c48-8538-68326dbc01c0)
+
 
 # Sprint 2
 
