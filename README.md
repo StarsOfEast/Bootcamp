@@ -38,6 +38,7 @@ Aksiyon parkur severler için
 # Sprint 1
 
 ---
+https://trello.com/b/VLoAuF8B/u-14
 
 # Sprint 2
 
