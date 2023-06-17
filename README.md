@@ -15,7 +15,7 @@ Eastern
 
 ## Oyun İsmi
 
-Where I am? 
+Where am I? 
 
 ## Oyun Açıklaması
 
