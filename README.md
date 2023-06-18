@@ -31,11 +31,17 @@ Aksiyon parkur severler için
 
 ## Product Backlog URL
 
-
+https://trello.com/b/VLoAuF8B/u-14
 
 ---
 
 # Sprint 1
+-Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
+-Puan tamamlama mantığı: TO DO da bulunan 8 task her biri 10 puandır.Her sprintte yeni tasklarla beraber Sprint puanı güncellenir.
+-Daily Scrum: Daily scrum haftanın 2 günü discordda canlıda toplanıyoruz.Gelemeyen arkadaslar bize discord daily kanalında bilgi veriyor.
+![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/aa2772ed-79b5-47b0-b81e-8a718244c851)
+
+
 
 ---
 ![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/3e8a0e87-9ca3-4c48-8538-68326dbc01c0)
