@@ -53,6 +53,7 @@ Oyun İçi görseller
 ![Ekran_goruntusu_2023-06-18_234152](https://github.com/StarsOfEast/Bootcamp/assets/72528911/377e373f-bfcb-4065-8e58-ddb7b58fa13d)
 
 -Sprint Review: Sprint herkesin final haftası olduğundan dolayı çalışmalarımızda esneklik gösterdik.Hikaye temelleri atıldı, demo map çalışması ve mekanikler üzerine çalışmalar ilerletildi.
+
 -Sprint Retrospective: İletişim arttırılmalı, daha fazla tasklar üzerine yoğunlaşılmalı.
 
 # Sprint 2
