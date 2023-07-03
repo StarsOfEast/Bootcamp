@@ -60,6 +60,7 @@ Oyun İçi görseller
 -Sprint içinde tamamlanması tahmin edilen puan: 60 Puan
 -Puan tamamlama mantığı: TO DO da bulunan 6 task her biri 10 puandır.Her sprintte yeni tasklarla beraber Sprint puanı güncellenir.
 -Daily Scrum: Daily scrum haftanın 2 günü discordda canlıda toplanıyoruz.Gelemeyen arkadaslar bize discord daily kanalında bilgi veriyor.
+
 ![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/519996e1-e5ce-4934-990f-25a7e4c62d2a)
 ![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/310b2e4b-bb24-4505-a018-6a129d137d6c)
 ![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/c27d6539-d4da-42fc-ac09-8bc74da29c1a)
