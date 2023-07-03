@@ -57,6 +57,9 @@ Oyun İçi görseller
 -Sprint Retrospective: İletişim arttırılmalı, daha fazla tasklar üzerine yoğunlaşılmalı.
 
 # Sprint 2
+-Sprint içinde tamamlanması tahmin edilen puan: 60 Puan
+-Puan tamamlama mantığı: TO DO da bulunan 6 task her biri 10 puandır.Her sprintte yeni tasklarla beraber Sprint puanı güncellenir.
+-Daily Scrum: Daily scrum haftanın 2 günü discordda canlıda toplanıyoruz.Gelemeyen arkadaslar bize discord daily kanalında bilgi veriyor.
 ![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/21615d5f-1ae5-4c9c-abd1-39392cf5650b)
 ![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/310b2e4b-bb24-4505-a018-6a129d137d6c)
 
