@@ -63,6 +63,9 @@ Oyun İçi görseller
 ![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/c27d6539-d4da-42fc-ac09-8bc74da29c1a)
 ![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/51546523-f9b8-4f3b-901e-830464f6c6e2)
 
+-Sprint Review: Mekanikler ve arasahneler üzerinde çalışıldı.
+
+-Sprint Retrospective: İletişim arttırılmalı, daha fazla tasklar üzerine yoğunlaşılmalı.
 
 ---
 
