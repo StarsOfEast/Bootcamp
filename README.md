@@ -57,6 +57,11 @@ Oyun İçi görseller
 -Sprint Retrospective: İletişim arttırılmalı, daha fazla tasklar üzerine yoğunlaşılmalı.
 
 # Sprint 2
+![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/21615d5f-1ae5-4c9c-abd1-39392cf5650b)
+![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/310b2e4b-bb24-4505-a018-6a129d137d6c)
+
+![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/c27d6539-d4da-42fc-ac09-8bc74da29c1a)
+![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/51546523-f9b8-4f3b-901e-830464f6c6e2)
 
 
 ---
