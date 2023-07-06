@@ -8,7 +8,7 @@ using UnityEngine.InputSystem.Interactions;
 
 namespace Egypt.Manager
 {
-    public class InputManager : MonoBehaviour
+    public class MY_InputManager : MonoBehaviour
     {
         [SerializeField] private PlayerInput PlayerInput;
 

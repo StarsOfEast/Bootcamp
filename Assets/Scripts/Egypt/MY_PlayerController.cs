@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace Egypt.PlayerControl
 {
-    public class PlayerController : MonoBehaviour
+    public class MY_PlayerController : MonoBehaviour
     {
         [SerializeField] private float AnimBlendSpeed = 8.9f;
         [SerializeField] private Transform CameraRoot;
@@ -16,7 +16,7 @@ namespace Egypt.PlayerControl
 
 
         private Rigidbody _playerRigidbody;
-        private InputManager _inputManager;
+        private MY_InputManager _inputManager;
         private Animator _animator;
 
         private bool _hasAnimator;
@@ -32,7 +32,7 @@ namespace Egypt.PlayerControl
         {
             _hasAnimator = TryGetComponent<Animator>(out _animator);
             _playerRigidbody = GetComponent<Rigidbody>();
-            _inputManager = GetComponent<InputManager>();
+            _inputManager = GetComponent<MY_InputManager>();
 
             _xvelHash = Animator.StringToHash("X_Velocity");
             _yvelHash = Animator.StringToHash("Y_Velocity");
