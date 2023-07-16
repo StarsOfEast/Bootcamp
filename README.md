@@ -78,4 +78,11 @@ Oyun İçi görseller
 -Sprint içinde tamamlanması tahmin edilen puan: 60 Puan
 -Puan tamamlama mantığı: TO DO da bulunan 6 task her biri 10 puandır.Her sprintte yeni tasklarla beraber Sprint puanı güncellenir.
 -Daily Scrum: Whatsappı aktif olarak kullanıyoruz.İletişimimizin çoğunu ordan gerçekleştiriyoruz.
+
+![image](https://github.com/StarsOfEast/Bootcamp/assets/72528911/4b616283-462e-40e2-a2e3-a8490e630753)
+![Ekran_goruntusu_2023-07-16_201825](https://github.com/StarsOfEast/Bootcamp/assets/72528911/21d0eb52-6d24-413a-8c27-7d04aebc00d7)
+
+
+-Sprint Review: Sahneler ayarlandı. Mısır, Japon, savaş sahneleri yüklendi.
+-Sprint Retrospective: İletişim arttırılmalı, daha fazla tasklar üzerine yoğunlaşılmalı.
 ---
