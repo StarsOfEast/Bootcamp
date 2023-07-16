@@ -79,7 +79,7 @@ Oyun İçi görseller
 -Puan tamamlama mantığı: TO DO da bulunan 6 task her biri 10 puandır.Her sprintte yeni tasklarla beraber Sprint puanı güncellenir.
 -Daily Scrum: Whatsappı aktif olarak kullanıyoruz.İletişimimizin çoğunu ordan gerçekleştiriyoruz.
 <img src="drawing.jpg" alt="drawing" width="200"/>
-![Başlıksız1](https://github.com/StarsOfEast/Bootcamp/assets/72528911/2392005d-8298-45ff-b20c-d92eb2874473 | width=100)
+![Başlıksız1](https://github.com/StarsOfEast/Bootcamp/assets/72528911/2392005d-8298-45ff-b20c-d92eb2874473)
 ![Başlıksız](https://github.com/StarsOfEast/Bootcamp/assets/72528911/5d303569-8881-4244-9753-fdbd791de973)
 ![resim](https://github.com/StarsOfEast/Bootcamp/assets/72528911/21d5f784-2e49-4e82-9cf5-e5583d9bff3a)
 ![image](https://github.com/StarsOfEast/Bootcamp/assets/72528911/4b616283-462e-40e2-a2e3-a8490e630753)
