@@ -75,5 +75,7 @@ Oyun İçi görseller
 ---
 
 # Sprint 3
-
+-Sprint içinde tamamlanması tahmin edilen puan: 60 Puan
+-Puan tamamlama mantığı: TO DO da bulunan 6 task her biri 10 puandır.Her sprintte yeni tasklarla beraber Sprint puanı güncellenir.
+-Daily Scrum: Whatsappı aktif olarak kullanıyoruz.İletişimimizin çoğunu ordan gerçekleştiriyoruz.
 ---
