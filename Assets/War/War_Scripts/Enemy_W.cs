@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class Enemy_W : MonoBehaviour
 {
-    float hp = 50f;
-
+    float hp = 500f;
+    Rigidbody rb;
 
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        rb = GetComponent<Rigidbody>();
     }
 
     // Update is called once per frame
@@ -32,7 +32,8 @@ public class Enemy_W : MonoBehaviour
 
     void Die()
     {
-        Destroy(gameObject);
+        rb.isKinematic = false;
+        Destroy(gameObject, 3f);
     }
 
 }

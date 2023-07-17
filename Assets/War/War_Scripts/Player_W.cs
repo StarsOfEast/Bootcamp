@@ -7,7 +7,7 @@ using UnityEditor.ShaderGraph;
 
 public class Player_W : MonoBehaviour
 {
-    float speed = 1000f;
+    float speed = 1500f;
     float sens = 100f;
     
 
@@ -71,6 +71,13 @@ public class Player_W : MonoBehaviour
         float desiredCameraRotationX = cameraRotationX - mouseY * sens * Time.deltaTime;
         desiredCameraRotationX = ClampCameraRotation(desiredCameraRotationX);
         cameraTransform.localRotation = Quaternion.Euler(desiredCameraRotationX, 0f, 0f);
+
+
+        //if there is no ibject with tag "enemy", load the scene indexed 3
+        if (GameObject.FindGameObjectsWithTag("enemy").Length == 0)
+        {
+            UnityEngine.SceneManagement.SceneManager.LoadScene(3);
+        }
 
 
     }
