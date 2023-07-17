@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.AI;
 using UnityEngine.Rendering;
 using UnityEditor.ShaderGraph;
+using Unity.VisualScripting;
 
 public class Player_W : MonoBehaviour
 {
@@ -76,7 +77,8 @@ public class Player_W : MonoBehaviour
         //if there is no ibject with tag "enemy", load the scene indexed 3
         if (GameObject.FindGameObjectsWithTag("enemy").Length == 0)
         {
-            UnityEngine.SceneManagement.SceneManager.LoadScene(3);
+            //quit the game
+            Application.Quit();
         }
 
 
