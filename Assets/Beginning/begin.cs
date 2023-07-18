@@ -12,7 +12,7 @@ public class begin : MonoBehaviour
     {
         if (beginTimeline.state == PlayState.Paused)
         {
-            SceneManager.LoadScene("1");
+            SceneManager.LoadScene("Samurai");
         }
     }
 }

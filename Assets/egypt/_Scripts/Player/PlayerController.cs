@@ -36,7 +36,8 @@ namespace UnityTutorial.PlayerControl
         private const float _walkSpeed = 2f;
         private const float _runSpeed = 6f;
         private Vector2 _currentVelocity;
-        
+
+        int i = 0;
 
 
         private void Start() {
@@ -163,11 +164,16 @@ namespace UnityTutorial.PlayerControl
             if (other.gameObject.CompareTag("Ball"))
             {
                 Destroy(other.gameObject);
+                i++;
+                if (i == 3)
+                {
+                    SceneManager.LoadScene("war");
+                }
             }
 
             if (GameObject.FindGameObjectsWithTag("Ball").Length == 0)
             {
-                SceneManager.LoadScene(2);
+                
             }
         }
     }
