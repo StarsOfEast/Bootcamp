@@ -15,11 +15,11 @@ Eastern
 
 ## Oyun İsmi
 
-Where am I? 
+Reincarnation 
 
 ## Oyun Açıklaması
 
-Zamanın ve mekanın değiştiği farklı mekanlara giden karakterimiz o mekana adapte olmaya çalışır ve o yetenekleri konuma göre adapte olur. 
+Reenkarnasyon ile farklı mekanlara giden karakterimiz o mekana adapte olmaya çalışır ve yetenekleri konuma göre adapte olur. 
 
 ## Oyun Özellikleri
 
@@ -27,7 +27,7 @@ Karakterimiz bazen japonyada bir samuray, bazen ikinci dünya savaşında bir as
 
 ## Hedef Kitle
 
-Aksiyon parkur severler için
+Hikaye ve aksiyon parkur severler için
 
 ## Product Backlog URL
 
